@@ -1,0 +1,18 @@
+.Header-row {
+  background-color: #e7272d;
+  width: 100vw !important;
+  height: 60px;
+}
+.Header_enclouser {
+  display: flex;
+  list-style: none;
+  height: 60px;
+  align-items: center;
+}
+.fa-brands,
+.fa-sharp,
+.fa-solid,
+.fa-duotone,
+.text {
+  color: white;
+}
